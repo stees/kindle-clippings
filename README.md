@@ -2,6 +2,7 @@
 ## O quê
  - Organizador dos grifos e anotações feitos no Kindle
  - Esses dados estão escritos no MyClippings.txt, arquivo localizado na pasta documents dentro da memória do Amazon Kindle.
+ - O arquivo MyClippings.txt deve estar na mesma pasta que o repositório for clonado pelo git clone
 
 ## Por quê
  - A ideia era adicionar as anotações que fiz em cada livro de não-ficção que li pelo Kindle ao Zotero, e aí me deparei com um arquivo todo esquisito que não tinha regularidade entre os separadores, o que me impediu de resolver pelo Excel
